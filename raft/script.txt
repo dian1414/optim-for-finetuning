@@ -1,0 +1,1 @@
+python raft.py --datapath sample_data/documents.json --output ./chatqa --distractors 3 --doctype json --chunk_size 512 --questions 5 --openai_key 
